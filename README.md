@@ -44,10 +44,6 @@ Perfect for a PC connected to your TV in the living room - control it from the c
 
 Feel free to open an [Issue](../../issues) or [Pull Request](../../pulls) with suggestions, bug reports, or improvements.
 
-## License
-
-This project is distributed under the [MIT License](LICENSE).
-
 ## Credits
 
-Developed by Elad Gabay.
+Developed by Elad Greenberg.
