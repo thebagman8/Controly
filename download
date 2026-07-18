@@ -1,0 +1,18 @@
+# Build artifacts
+bin/
+obj/
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Do not commit large binaries here - use GitHub Releases instead
+*.exe
+*.msix
